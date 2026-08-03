@@ -1,0 +1,3 @@
+variable "RGS" {}
+
+variable "loc" {}
